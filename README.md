@@ -6,7 +6,6 @@
 
 ###### Contact Person:
 * Yusef Omowale
-    * yomowale@gmail.com
 
 ###### Scrum Meetings:
 MWF 12:45 - 1:00 PM @ the table outside of Norris Chemistry Hall
