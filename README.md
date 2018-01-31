@@ -14,18 +14,6 @@ MWF 12:45 - 1:00 PM @ the table outside of Norris Chemistry Hall
 Re-design/re-architect Southern California Library's website using a content
 management system potentially integrating book circulation/catalog services.
 
-###### Initial Question:
-* What is the main goal of the new website?
-    * To relay information about library? To have an online catalog?
-    * Mandatory features? Features you would like to see implemented?
-* How is the current website and catalog kept?
-    * Obtain access to current files, docs, or images
-* Who are the users? How much traffic/server load?
-* Any specific CMS?
-    * Barcode? Manually input each article in system?
-* Any type of security? Regular maintenance or updates?
-    * Preferences for post-project maintenance
-
 ###### Resources:
 1. Southern California Library
     * http://www.socallib.org/

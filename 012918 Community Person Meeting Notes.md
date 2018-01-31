@@ -10,7 +10,7 @@
 * Features
     * Search request form, donor option, digitized packets,
     space rentals, volunteer opportunities.
-        * automatic replies and reminders
+        * Automatic replies and reminders
     * Learning management system (e.g. moodle)
     * User memberships (volunteers, learners, researchers) with access to shared
     material and easy management of groups for staff
@@ -25,7 +25,7 @@
 
 #### Notes
 * Want us to start with doing research about other websites and what works; goal is to make a survey to send out to people; show to community partner before distributing
-* More features like exhibits, content management system, switching to wordpress
+* More features like exhibits, content management system, switching to WordPress
     * Features to integrate: search request form, donor option (they do have it), digitized packets, space rentals, volunteer
 * Check out other libraries, survey features, improve accessibility, what features users would like
 * Access documents/international reach (people come from all over the world to access the documents in the library/lots of social justice documents/social implications), change out documents available online according to demand

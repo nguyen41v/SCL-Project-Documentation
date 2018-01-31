@@ -5,5 +5,5 @@
 * Vanessa
     * Work on GitHub
 * Everyone
-    * Research
+    * Research library sites
     * Clean up summary
