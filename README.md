@@ -26,35 +26,6 @@ management system potentially integrating book circulation/catalog services.
 * Any type of security? Regular maintenance or updates?
     * Preferences for post-project maintenance
 
-###### Community Person Meeting Summary (1/29)
-* Research
-    * Research other websites and what works (Features now that are more
-        accessible & useful)
-    * Check out other libraries, survey features, what features users like.
-    * Key audience: researchers, high school students, undergrad, faculty.
-    * Construct survey to send out to people; show to community partner before
-    distributing. Need to find out how we would distribute it.
-* Features
-    * Search request form, donor option, digitized packets,
-    space rentals, volunteer opportunities.
-        * automatic replies and reminders
-    * Learning management system (e.g. moodle)
-    * User memberships (volunteers, learners, researchers) with access to shared
-    material and easy management of groups for staff
-    * Easy editing and uploading archives
-    * Analytics (e.g. Google Analytics)
-    * Rate, review, comment on materials
-    * Seasonal exhibits (online access of documents high in demand)
-    * No static documents (mix of resources with suggestions)
-    * More features to come after research/survey
-
-###### Scrum Meeting Notes (1/29):
-* Drake
-    * Trello
-* Vanessa
-    * GitHub
-* Everyone a little bit of research/clean up summary
-
 ###### Resources:
 1. Southern California Library
     * http://www.socallib.org/
@@ -62,7 +33,3 @@ management system potentially integrating book circulation/catalog services.
     * https://omeka.org/
 3. Online Archive of California
     * http://www.oac.cdlib.org/
-
-
-
-*More detailed information is included in the document*
