@@ -2,7 +2,6 @@
 
 * Drake
     * Accomplished: Trello
-    * Will do: email Yusef
 * Vanessa
     * Accomplished: GitHub; made group chat
 * Besty
@@ -11,5 +10,6 @@
     * Wasn't here last time
 * Jon
     * Accomplished: Made a list of common features from libraries that used wordpress
+    * Cleaned up summary
 * Everyone
     * Will do: more library research, esp. on archives
