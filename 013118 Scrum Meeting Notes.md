@@ -1,4 +1,4 @@
-## 1/29/18 Scrum Meeting Notes
+## 1/31/18 Scrum Meeting Notes
 
 * Drake
     * Worked on setting up Trello
