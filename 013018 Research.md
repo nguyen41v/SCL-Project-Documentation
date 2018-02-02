@@ -6,6 +6,14 @@
     * Catalog/Suggested Reads/Search Bar
     * Misc (Donate, Social Media, Review, Help/FAQ)
     * CMS (Search categorized by books/articles/journal/etc)
+
+* Website Designs to Consider
+    * Menu that stays on screen as you scroll is nice
+    * Header that doesn't take up entire screen
+    * Catalog search field should not be directly in top left corner (saw a website designed with it there and it was not intuitive to look there for it - here's a link https://gyazo.com/66456dabaa8a86b553bc21cda92005d4)
+    * Same or separate site for catalog? Think same is better
+
+* Detailed Descriptions
     * Los Angeles Public Library (http://www.lapl.org/)
         * Includes a lot of branches...Eagle Rock, Arroyo Seco, Cypress Park, Silver Lake...
         * Very plain in design, a lot of orange scheme and not very coordinated in terms of color
