@@ -1,24 +1,32 @@
 ## 2/02/18 Scrum Meeting Notes
 
 * Drake
-    * Accomplished: 
-    * Will do: 
-    * Blockers: 
+    * Accomplished:
+         * PluginsMade wordpress
+         * Plugins
+         * Fixed GitHub too
+    * Will do:
+         * Plugins
+    * Blockers:
+         * Paper to do but not much of a blocker
 * Vanessa
-    * Accomplished: 
+    * Accomplished:
+         * PluginsGithub
+         * Played with Wordpress
     * Will do: 
-    * Blockers: 
+         * PluginsPlugins
 * Besty
-    * Accomplished: 
-    * Will do: 
-    * Blockers: 
+    * Accomplished:
+         * PluginsResearch on public libraries
+         * Poll for library trip/availability
+    * Will do:
+         * Research
 * Gina
-    * Accomplished: 
-    * Will do: 
-    * Blockers: 
+    * Wasn't here
 * Jon
-    * Accomplished: 
+    * Accomplished:
+         * Looked at plugins for product catalog
+         * Familiarilty with wordpress
     * Will do: 
-    * Blockers: 
-* Everyone
-    * Will do: 
+         * Make a list of plugins and which one is best
+         * Plugins
