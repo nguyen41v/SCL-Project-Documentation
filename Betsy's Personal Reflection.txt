@@ -2,7 +2,7 @@ The mission statement of Operation SCL is to design an effective catalogue syste
 website for Southern California Library. The library is limited in many ways. It only has two staffs that are not tech-savvy;
 as a non-profit organization it does not have as much funding as they would like to do things such as organizing all the 
 resources they have. The goal essentially is to design the website so that the staffs can update it to their accordance 
-(preferably with a little training), the people who use the library’s resources can maneuver the website more easily, 
+(with a little training), the people who use the library’s resources can maneuver the website more easily, 
 and create an effective system for the library to update and record what they have online. 
 
 Initially I thought the project was just revamping a website due to its lack of design; however, meeting with Yusef shifted 
