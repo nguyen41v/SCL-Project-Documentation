@@ -17,6 +17,9 @@ Wednesday 1:00 - 1:30 PM @ the table outside of Norris Chemistry Hall
 Re-design/re-architect Southern California Library's website using a content
 management system potentially integrating book circulation/catalog services.
 
+###### WordPress Prototype:
+https://operationscl.000webhostapp.com/
+
 ###### Resources:
 1. Southern California Library
     * http://www.socallib.org/
