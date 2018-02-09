@@ -30,3 +30,6 @@
     * Will do: 
          * Make a list of plugins and which one is best
          * Plugins
+* Everyone
+    * Blockers:
+         * Waiting on email response
