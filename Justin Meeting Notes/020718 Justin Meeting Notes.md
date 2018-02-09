@@ -8,3 +8,4 @@
     such as the catalog plugins
 * Come up with survey questions
 * See how WordPress can be integrated with GitHub
+* Start creating documentations
