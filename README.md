@@ -1,7 +1,7 @@
 # Operation SCL
 
 #### CS 365 Practicum in Computer Science
-#### Jonathan Hou, Betsy Li, Vanessa Nguyen, Gina Niekus, Drake Song
+#### Jonathan Hou, Betsy Li, Vanessa Nguyen, Drake Song
 #### Spring Semester 2018, Professor Justin Li
 
 ###### Contact Person:
