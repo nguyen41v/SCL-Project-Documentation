@@ -1,11 +1,11 @@
-What tasks did your team set out to complete this past sprint? What did you actually complete? If they are not the same, what are the sources of this discrepancy?
+**What tasks did your team set out to complete this past sprint? What did you actually complete? If they are not the same, what are the sources of this discrepancy?**
   Our team set out to complete the research and the prototype phase this past sprint. More specifically, we set out to discover, document, and rank catalog plug ins as well as library websites. We created tables that listed the multiple catalog plug ins and necessary or common features on other library websites. The other task we attempted to complete was building a functioning website that allows admin to upload files onto the website. We completed both of these tasks but we are still testing plugins and discussing which is the best to use. 
   
-What tasks will your team complete this coming spring? How did you decide on these priorities?
+**What tasks will your team complete this coming spring? How did you decide on these priorities?**
   During this sprint, we are going to complete and finalize our research to determine the necessary features, functions, and plugins to include on the website. We are also going to finalize the plugin to use and integrate that onto the website. 
 
-How accurate were your estimates of the community partner's priorities, based on your initial meeting and then the subsequent email followups?
+**How accurate were your estimates of the community partner's priorities, based on your initial meeting and then the subsequent email followups?**
 	Initially, our group did some research on necessary features for websites by exploring other library websites. Based on our initial meeting, our community partner seemed to want numerous features but was unsure on which to commit to. Our estimates of his priorities were slightly different after the subsequent email follow ups because he placed a heavy emphasis on creating tables, surveys, and templates for researching other library websites. 
 
-Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+**Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?**
 	My hopes have diminished a little since I feel that there is an enormous amount of library websites existing with so many features which would make research a little difficult. I definitely feel uncertain because I am unsure when we should stop researching or know if we did enough research since there really is no end to researching. Currently, we are exploring some plugins for the basic catalog function but it may become more complex and challenging to accomplish other difficult features our partner wants. 
