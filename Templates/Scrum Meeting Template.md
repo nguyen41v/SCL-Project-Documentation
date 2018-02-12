@@ -12,10 +12,6 @@
     * Accomplished: 
     * Will do: 
     * Blockers: 
-* Gina
-    * Accomplished: 
-    * Will do: 
-    * Blockers: 
 * Jon
     * Accomplished: 
     * Will do: 

@@ -1,4 +1,4 @@
-## 2/05/18 Scrum Meeting Notes
+## 2/07/18 Scrum Meeting Notes
 
 * Drake
     * Accomplished: Looked through Omeka's codes
