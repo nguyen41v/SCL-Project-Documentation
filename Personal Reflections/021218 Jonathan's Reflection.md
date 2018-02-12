@@ -1,7 +1,7 @@
 **What tasks did your team set out to complete this past sprint? What did you actually complete? If they are not the same, what are the sources of this discrepancy?**
 Our team set out to complete the research and the prototype phase this past sprint. More specifically, we set out to discover, document, and rank catalog plug ins as well as library websites. We created tables that listed the multiple catalog plug ins and necessary or common features on other library websites. The other task we attempted to complete was building a functioning website that allows admin to upload files onto the website. We completed both of these tasks but we are still testing plugins and discussing which is the best to use. 
   
-**What tasks will your team complete this coming spring? How did you decide on these priorities?**
+**What tasks will your team complete this coming sprint? How did you decide on these priorities?**
   During this sprint, we are going to complete and finalize our research to determine the necessary features, functions, and plugins to include on the website. We are also going to finalize the plugin to use and integrate that onto the website. 
 
 **How accurate were your estimates of the community partner's priorities, based on your initial meeting and then the subsequent email followups?**
