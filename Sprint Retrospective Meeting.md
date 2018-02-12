@@ -10,7 +10,7 @@ Communication between the team and the community partner wasn't the fastest and 
 
 We learned as a group that everyone needs to do what he or she was assigned to do. Because if one person slacks off, the team is weighed down because every task is interconnected. 
 
-**4.	What should we do differently next time? **
+**4.	What should we do differently next time?**
 
 Divide up tasks more quantitatively and set deadlines. Instead of vaguely saying "think of questions" the task should be more of "post two questions before Monday". 
 
