@@ -12,7 +12,7 @@ We learned as a group that everyone needs to do what he or she was assigned to d
 
 **4.	What should we do differently next time?**
 
-Divide up tasks more quantitatively and set deadlines. Instead of vaguely saying "think of questions" the task should be more of "post two questions before Monday". 
+Divide up tasks more quantitatively and set deadlines. Instead of vaguely saying "think of questions" the task should be more of "post two questions before Monday". Communication can be improved by being simultaenously more suggestive and assertive. In cases like how we tried to set a date to visit them, we can suggest a few dates to visit them instead of giving them a solid date. 
 
 **5.	What have we yet to figure out (about team dynamics)?**
 
