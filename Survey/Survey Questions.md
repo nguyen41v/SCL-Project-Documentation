@@ -12,3 +12,5 @@
 * What online archive/online library site is your favorite and why?
 * What is the most difficult process when looking through online archives?
 * How often do you filter or specify your searchs when looking through online archives?
+* Do you find the library sites that you use accessible? 
+* How often do you find the social media presence of a library helpful? 
