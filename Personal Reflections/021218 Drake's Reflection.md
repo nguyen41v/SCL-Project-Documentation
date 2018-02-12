@@ -3,7 +3,7 @@
 #### What tasks did your team set out to complete this past sprint? What did you actually complete? If they are not the same, what are the sources of this discrepancy?
 When we started, we wanted to focus on research and creating a prototype that we can play around with. We did make a prototype that we are constantly playing with in terms of testing out plugins for features. For research, we did conduct some basic research by checking out other libraries' websites and some online archives. It wasn't until towards the end of the sprint when our community partner replied to our first email with requests on how to conduct the research.
 
-#### What tasks will your team complete this coming spring? How did you decide on these priorities?
+#### What tasks will your team complete this coming sprint? How did you decide on these priorities?
 For this sprint, we will focus mostly on research/survey. We decided on this because our community partner put heavy emphasis on this process through the communication.
 
 #### How accurate were your estimates of the community partner's priorities, based on your initial meeting and then the subsequent email followups?
