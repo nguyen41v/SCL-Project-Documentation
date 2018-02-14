@@ -11,9 +11,9 @@
 * What service or feature do you find yourself using the most on a library website?
 * What online archive/online library site is your favorite and why?
 * What is the most difficult process when looking through online archives?
-* On a scale of 1-5, with 1 being not very often and 5 being very often, how often do you filter or specify your searchs when looking through online archives?
-* On a scale of 1-5, with 1 being not very accessible and 5 being very accessible, how accessible are the library sites that you use? 
-* On a scale of 1-5, with 1 being not very helpful and 5 being very helpful, how helpful is the social media presence of a library? 
+* On a scale of 1-5, with 1 being not very often and 5 being very often, how often do you filter or specify your searches when looking through online archives?
+* On a scale of 1-5, with 1 being not very accessible and 5 being very accessible, how accessible are the library sites that you use?
+* On a scale of 1-5, with 1 being not very helpful and 5 being very helpful, how helpful is the social media presence of a library?
 //helpful in what way?
 * Would you be deterred from donating to a library if there was a popup for donations on their site?
 * When you search for items on a library, what aspect(s) of the items are you searching for? For example, title.
