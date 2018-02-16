@@ -10,14 +10,11 @@
 * What do you need to know from your community partner (and your user)?
 	What do they offer at their library?
 	What features they want?
-<<<<<<< HEAD
 	How is their technology setup? / What are they currently doing? ****
 	Do they want to be the ones giving the surveys or should we also?
 	Who is their targeted audience for using the library and library website?
-=======
 	How is their technology setup?
 	Ask about whehter they want to be the ones giving the surveys or should we also?
->>>>>>> master
 	
 * How do you plan on getting that informaton? What kind of activityies will you lead them through, and what questions will you ask them afterwards?
 	See which features they want and how effective they are - can do this through interviews (unconstructed interviews with people we know, try to find a specific book on a website).
