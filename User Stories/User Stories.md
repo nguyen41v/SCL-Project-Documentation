@@ -9,5 +9,5 @@ A Researcher's main goal is to quickly access the catalog for documents/informat
 #### Student
 
 #### Teacher
-
+As a teacher who works at the middle school not far from SCL, I would like to maximize the things I could do at SCL. This includes the resources Foundation center, book sale, room reservation. Sometimes I might be frustrated by the school administration because of various reasons that center around its inability to provide for my students. However, I am able to use the library as a space for extracurricular projects with students to teach them history and social justice. I am well-trained through the UCLA Teacher Education Program and young enough to navigate my way through the internet without instructions.  
 #### Patrons
