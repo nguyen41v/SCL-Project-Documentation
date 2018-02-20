@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1NBF2Z_puBE0X7xHZtGy2wGtkR5yoNHw5WqOfsiKS
 * Ebook
     * Supports and has ebooks available for users
 * Catalog
-    * Implements a catalog system where users can search through
+    * Implements a catalog system where users can search through the catalog only and not the whole wesbite
 * Events
     * Has Events section that lists out events held by and within library
 * Search Bar
@@ -58,7 +58,7 @@ https://docs.google.com/spreadsheets/d/1NBF2Z_puBE0X7xHZtGy2wGtkR5yoNHw5WqOfsiKS
 * Reviews
     * Ability to leave reviews on books/articles/items
 * Learning
-    * Section with information related to learning services provided by the library
+    * Section with information related to learning services or opportunities provided by the library
 * Live Assistance
     * Ability for the user to chat live with staff/support
 * Report a Problem
