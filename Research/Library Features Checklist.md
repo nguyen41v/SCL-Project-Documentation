@@ -4,10 +4,10 @@
 https://docs.google.com/spreadsheets/d/1NBF2Z_puBE0X7xHZtGy2wGtkR5yoNHw5WqOfsiKSruc/edit?usp=sharing
 
 ## Legend
-* Ebook
-    * Supports and has ebooks available for users
+* E-book
+    * Supports and has e-books available for users
 * Catalog
-    * Implements a catalog system where users can search through the catalog only and not the whole wesbite
+    * Implements a catalog system where users can search through the catalog only and not the whole website
 * Events
     * Has Events section that lists out events held by and within library
 * Search Bar
