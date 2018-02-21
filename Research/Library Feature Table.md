@@ -27,7 +27,7 @@ Events | Has Events section that lists out events held by and within library | 9
   Events Manager
     https://wordpress.org/plugins/events-manager/
   The Events Calendar (Overlap)
-    https://wordpress.org/plugins/the-events-calendar/
+    **https://wordpress.org/plugins/the-events-calendar/
     
     
 Accounts | Log in/sign up/user profile/checked out books/fines/pay fines | 90.48% of all libraries |
