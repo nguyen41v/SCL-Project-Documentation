@@ -13,21 +13,21 @@ E-Book | Supports and has e-books available for users | 85.71% of all libraries 
 Donate | Donate/support us button/function | 84.62% of public libraries |
 Calendar | Has a calendar where users can view programs and events happening at the library | 80.95% of all libraries |
 
-  *Event Organiser (Overlap/Open Source)
-    *https://wp-event-organiser.com/
-  *The Events Calendar (Overlap)
-    *https://wordpress.org/plugins/the-events-calendar/
-  *Simple Calendar
-    *https://wordpress.org/plugins/google-calendar-events/
-  *Booking Calendar
-    *https://wordpress.org/plugins/booking/
+  **Event Organiser (Overlap/Open Source)
+    https://wp-event-organiser.com/
+  The Events Calendar (Overlap)
+    https://wordpress.org/plugins/the-events-calendar/
+  Simple Calendar
+    https://wordpress.org/plugins/google-calendar-events/
+  Booking Calendar
+    https://wordpress.org/plugins/booking/
 Events | Has Events section that lists out events held by and within library | 95.24% of all libraries |
-  *Event Organiser (Overlap/Open Source)
-    *https://wp-event-organiser.com/
-  *Events Manager
-    *https://wordpress.org/plugins/events-manager/
-  *The Events Calendar (Overlap)
-    *https://wordpress.org/plugins/the-events-calendar/
+  Event Organiser (Overlap/Open Source)
+    https://wp-event-organiser.com/
+  Events Manager
+    https://wordpress.org/plugins/events-manager/
+  The Events Calendar (Overlap)
+    https://wordpress.org/plugins/the-events-calendar/
     
     
 Accounts | Log in/sign up/user profile/checked out books/fines/pay fines | 90.48% of all libraries |
