@@ -10,7 +10,11 @@ About Us | About us page with information about the library | 100% of all librar
 Contacts | Contact information of the library | 100% of all libraries |
 Hours | Hours of the library | 100% of all libraries |
 E-Book | Supports and has e-books available for users | 85.71% of all libraries |
-Donate | Donate/support us button/function | 84.62% of public libraries |
+
+**Donate | Donate/support us button/function | 84.62% of public libraries |
+Give - Donbation Plugin | https://wordpress.org/plugins/give/
+Charitable | https://wordpress.org/plugins/charitable/**
+
 Calendar | Has a calendar where users can view programs and events happening at the library | 80.95% of all libraries |
 
   **Event Organiser (Overlap/Open Source)
@@ -41,28 +45,29 @@ Adult | Section specifically for adult-related items | 76.19% of all libraries |
 Learning | Section with information related to learning services or opportunities provided by the library | 76.19% of all libraries |
 Tutorial | How to use/navigate around the website/library | 71.43% of all libraries |
 
-***Email Newsletter | Users can sign up for email newsletter from the library | 66.67% of all libraries |
+**Email Newsletter | Users can sign up for email newsletter from the library | 66.67% of all libraries |
 MailPoet Newsletters | https://wordpress.org/plugins/mailpoet/
 Email Subscribers & Newsletters | https://wordpress.org/plugins/email-subscribers/
-Newsletters | https://wordpress.org/plugins/newsletters-lite/ *** 
+Newsletters | https://wordpress.org/plugins/newsletters-lite/ **
 
 Room Request | Request form/service for renting rooms | 66.67% of all libraries |
 Blog Posts | Has blog posts written by the library | 61.90% of all libraries |
 Disability Service | Information about disability services provided by the library | 61.90% of all libraries |
-Reviews | Ability to leave reviews on books/articles/items | 57.14% of all libraries |
+Volunteer Sign Up | Form/function for volunteers to use to sign up to help the library | 57.14% of all libraries |
 
-***Volunteer Sign Up | Form/function for volunteers to use to sign up to help the library | 57.14% of all libraries |
+**Reviews | Ability to leave reviews on books/articles/items | 57.14% of all libraries |
 Site Reviews | https://wordpress.org/plugins/site-reviews/
 WP Product Review Lite | https://wordpress.org/plugins/wp-product-review/
-Review & Product Review | https://wordpress.org/plugins/review-builder/ ***
+Review & Product Review | https://wordpress.org/plugins/review-builder/ **
 
 Online Classes | Online classes available for users to take | 47.62% of all libraries |
 Feedback | Users can provide feedback about the website/library | 38.10% of all libraries |
 
-***Live Assistance | Ability for the user to chat live with staff/support | 23.81% of all libraries |
+**Live Assistance | Ability for the user to chat live with staff/support | 23.81% of all libraries |
 Chat - Live Chat, Support, Sales | https://wordpress.org/plugins/chats/
 Zendesk Chat | https://wordpress.org/plugins/zopim-live-chat/
-Live Char - Live Support | https://wordpress.org/plugins/onwebchat/***
+Live Chat - Live Support | https://wordpress.org/plugins/onwebchat/**
+
 Kids | Section specifically for kid-related items | 20% of academic libraries |
 Teens | Section specifically for teen-related items | 20% of academic libraries |
 Report a Problem | Users can report a problem about the website/library | 19.05% of all libraries |
