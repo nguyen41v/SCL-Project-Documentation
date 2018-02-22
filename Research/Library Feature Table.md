@@ -40,6 +40,7 @@ Parking | Parking information about the library | 76.19% of all libraries |
 Adult | Section specifically for adult-related items | 76.19% of all libraries |
 Learning | Section with information related to learning services or opportunities provided by the library | 76.19% of all libraries |
 Tutorial | How to use/navigate around the website/library | 71.43% of all libraries |
+
 ***Email Newsletter | Users can sign up for email newsletter from the library | 66.67% of all libraries |
 MailPoet Newsletters | https://wordpress.org/plugins/mailpoet/
 Email Subscribers & Newsletters | https://wordpress.org/plugins/email-subscribers/
@@ -49,7 +50,12 @@ Room Request | Request form/service for renting rooms | 66.67% of all libraries 
 Blog Posts | Has blog posts written by the library | 61.90% of all libraries |
 Disability Service | Information about disability services provided by the library | 61.90% of all libraries |
 Reviews | Ability to leave reviews on books/articles/items | 57.14% of all libraries |
-Volunteer Sign Up | Form/function for volunteers to use to sign up to help the library | 57.14% of all libraries |
+
+***Volunteer Sign Up | Form/function for volunteers to use to sign up to help the library | 57.14% of all libraries |
+Site Reviews | https://wordpress.org/plugins/site-reviews/
+WP Product Review Lite | https://wordpress.org/plugins/wp-product-review/
+Review & Product Review | https://wordpress.org/plugins/review-builder/ ***
+
 Online Classes | Online classes available for users to take | 47.62% of all libraries |
 Feedback | Users can provide feedback about the website/library | 38.10% of all libraries |
 Live Assistance | Ability for the user to chat live with staff/support | 23.81% of all libraries |
