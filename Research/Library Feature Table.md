@@ -1,6 +1,5 @@
 ## Library Feature Table
 
-
 Feature | Description | Reason | Potential Plugin
 --- | --- | ---
 Catalog | Implements a catalog system where users can search through the catalog only and not the whole website | 100% of all libraries |
