@@ -58,7 +58,11 @@ Review & Product Review | https://wordpress.org/plugins/review-builder/ ***
 
 Online Classes | Online classes available for users to take | 47.62% of all libraries |
 Feedback | Users can provide feedback about the website/library | 38.10% of all libraries |
-Live Assistance | Ability for the user to chat live with staff/support | 23.81% of all libraries |
+
+***Live Assistance | Ability for the user to chat live with staff/support | 23.81% of all libraries |
+Chat - Live Chat, Support, Sales | https://wordpress.org/plugins/chats/
+Zendesk Chat | https://wordpress.org/plugins/zopim-live-chat/
+Live Char - Live Support | https://wordpress.org/plugins/onwebchat/***
 Kids | Section specifically for kid-related items | 20% of academic libraries |
 Teens | Section specifically for teen-related items | 20% of academic libraries |
 Report a Problem | Users can report a problem about the website/library | 19.05% of all libraries |
