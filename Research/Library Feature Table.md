@@ -9,4 +9,4 @@ About Us | About us page with information about the library | 100% of all librar
 Contacts | Contact information of the library | 100% of all libraries |
 Hours | Hours of the library | 100% of all libraries |
 E-Book | Supports and has e-books available for users | 85.71% of all libraries |
-Donate | Donate/support us button/function | 84.62% of public libraries | <a href='https://wordpress.org/plugins/give/'>Give - Donation Plugin</a><br/><a href='https://wordpress.org/plugins/charitable/'>Charitable</a>
+Donate | Donate/support us button/function | 84.62% of public libraries | 
