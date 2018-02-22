@@ -9,7 +9,7 @@ About Us | About us page with information about the library | 100% of all librar
 Contacts | Contact information of the library | 100% of all libraries |
 Hours | Hours of the library | 100% of all libraries |
 E-Book | Supports and has e-books available for users | 85.71% of all libraries |
-Donate | Donate/support us button/function | 84.62% of public libraries | <ul><li>[Give - Donation Plugin](https://wordpress.org/plugins/give/)</li><li>[Charitable](https://wordpress.org/plugins/charitable/)</li></ul>
+Donate | Donate/support us button/function | 84.62% of public libraries | <ul><li><a href='https://wordpress.org/plugins/give/'>Give - Donation Plugin</a></li><li><a href='https://wordpress.org/plugins/charitable/'>Charitable</a></li></ul>
 Calendar | Has a calendar where users can view programs and events happening at the library | 80.95% of all libraries | <ul><li>[Event Organiser (Overlap/Open Source)](https://wp-event-organiser.com/)</li><li>[The Events Calendar (Overlap)](https://wordpress.org/plugins/the-events-calendar/)</li><li>[Simple Calendar](https://wordpress.org/plugins/google-calendar-events/)</li><li>[Booking Calendar](https://wordpress.org/plugins/booking/)</li></ul>
 Events | Has Events section that lists out events held by and within library | 95.24% of all libraries | <ul><li>[Event Organiser (Overlap/Open Source)](https://wp-event-organiser.com/)</li><li>[Events Manager](https://wordpress.org/plugins/events-manager/)</li><li>[The Events Calendar (Overlap)](https://wordpress.org/plugins/the-events-calendar/)</li></ul>
 Accounts | Log in/sign up/user profile/checked out books/fines/pay fines | 90.48% of all libraries |
