@@ -40,7 +40,11 @@ Parking | Parking information about the library | 76.19% of all libraries |
 Adult | Section specifically for adult-related items | 76.19% of all libraries |
 Learning | Section with information related to learning services or opportunities provided by the library | 76.19% of all libraries |
 Tutorial | How to use/navigate around the website/library | 71.43% of all libraries |
-Email Newsletter | Users can sign up for email newsletter from the library | 66.67% of all libraries |
+***Email Newsletter | Users can sign up for email newsletter from the library | 66.67% of all libraries |
+MailPoet Newsletters | https://wordpress.org/plugins/mailpoet/
+Email Subscribers & Newsletters | https://wordpress.org/plugins/email-subscribers/
+Newsletters | https://wordpress.org/plugins/newsletters-lite/ *** 
+
 Room Request | Request form/service for renting rooms | 66.67% of all libraries |
 Blog Posts | Has blog posts written by the library | 61.90% of all libraries |
 Disability Service | Information about disability services provided by the library | 61.90% of all libraries |
