@@ -2,7 +2,7 @@
 
 Feature | Description | Priority | Reason | Potential Plugin
 --- | --- | --- | --- | ---
-Catalog | Implements a catalog system where users can search through the catalog only and not the whole website | High | 100% of all libraries |
+Catalog | Implements a catalog system where users can search through the catalog only and not the whole website | High | 100% of all libraries | &bull; [Memphis Documents Library](https://wordpress.org/plugins/memphis-documents-library/)<br/>&bull; [WebLibrarian](https://wordpress.org/plugins/weblibrarian/)<br/>&bull; [CataBlog](https://wordpress.org/plugins/catablog/)
 Room Request | Request form/service for renting rooms | High | Requested by SCL |
 Item Search Request | Request form/service for finding items within the library | High | Requested by SCL |
 Donate | Donate/support us button/function | High | Requested by SCL | &bull; [Give - Donation Plugin](https://wordpress.org/plugins/give/)<br/>&bull; [Charitable](https://wordpress.org/plugins/charitable/)
