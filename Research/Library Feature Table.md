@@ -9,7 +9,7 @@ Donate | Donate/support us button/function | High | Requested by SCL | &bull; [G
 Featured Work | Has list of works on the homepage as a spotlight section | High | Requested by SCL |
 Reviews | Ability to leave reviews and comments on books/articles/items | High | Requested by SCL | &bull; [Site Reviews](https://wordpress.org/plugins/site-reviews/)<br/>&bull; [WP Product Review Lite](https://wordpress.org/plugins/wp-product-review/)<br/>&bull; [Review & Product Review](https://wordpress.org/plugins/review-builder/)
 Search Bar | Search within the website | | 100% of all libraries |
-Social Media | List of social media used by the library | | 100% of all libraries |&bull; [Kiwi Social Share](https://wordpress.org/plugins/kiwi-social-share/)<br/>&bull;[Custom Share Button](https://wordpress.org/plugins/custom-share-buttons-with-floating-sidebar/)<br/>&bull;[Easy Social Sharing](https://wordpress.org/plugins/easy-social-sharing/)
+Social Media | List of social media used by the library | | 100% of all libraries |&bull; [Kiwi Social Share](https://wordpress.org/plugins/kiwi-social-share/)<br/>&bull; [Custom Share Button](https://wordpress.org/plugins/custom-share-buttons-with-floating-sidebar/)<br/>&bull; [Easy Social Sharing](https://wordpress.org/plugins/easy-social-sharing/)
 Related Articles | A recommender system that displays related materials when viewing an item through the catalog | | Requested by SCL |
 User Analytics System | A feature that analyzes user activities within the site | | Requested by SCL |
 About Us | About us page with information about the library | | 100% of all libraries |
