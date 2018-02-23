@@ -3,8 +3,8 @@
 Feature | Description | Priority | Reason | Potential Plugin
 --- | --- | --- | --- | ---
 Catalog | Implements a catalog system where users can search through the catalog only and not the whole website | High | 100% of all libraries | &bull; [Memphis Documents Library](https://wordpress.org/plugins/memphis-documents-library/)<br/>&bull; [WebLibrarian](https://wordpress.org/plugins/weblibrarian/)<br/>&bull; [CataBlog](https://wordpress.org/plugins/catablog/)
-Room Request | Request form/service for renting rooms | High | Requested by SCL |
-Item Search Request | Request form/service for finding items within the library | High | Requested by SCL |
+Room Request | Request form/service for renting rooms | High | Requested by SCL | &bull; [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+Item Search Request | Request form/service for finding items within the library | High | Requested by SCL | &bull; [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 Donate | Donate/support us button/function | High | Requested by SCL | &bull; [Give - Donation Plugin](https://wordpress.org/plugins/give/)<br/>&bull; [Charitable](https://wordpress.org/plugins/charitable/)
 Featured Work | Has list of works on the homepage as a spotlight section | High | Requested by SCL |
 Reviews | Ability to leave reviews and comments on books/articles/items | High | Requested by SCL | &bull; [Site Reviews](https://wordpress.org/plugins/site-reviews/)<br/>&bull; [WP Product Review Lite](https://wordpress.org/plugins/wp-product-review/)<br/>&bull; [Review & Product Review](https://wordpress.org/plugins/review-builder/)
@@ -31,8 +31,8 @@ Blog Posts | Has blog posts written by the library | | 61.90% of all libraries |
 Disability Service | Information about disability services provided by the library | | 61.90% of all libraries |
 Volunteer Sign Up | Form/function for volunteers to use to sign up to help the library | | 57.14% of all libraries |
 Online Classes | Online classes available for users to take | | 47.62% of all libraries |
-Feedback | Users can provide feedback about the website/library | | 38.10% of all libraries |
-Report a Problem | Users can report a problem about the website/library | | 19.05% of all libraries |
+Feedback | Users can provide feedback about the website/library | | 38.10% of all libraries | &bull; [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+Report a Problem | Users can report a problem about the website/library | | 19.05% of all libraries | &bull; [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 Interlibrary Loan | Request interlibrary loans | | 19.05% of all libraries |
 Live Assistance | Ability for the user to chat live with staff/support | Low | Lack of manpower | &bull; [Chat - Live Chat, Support, Sales](https://wordpress.org/plugins/chats/)<br/>&bull; [Zendesk Chat](https://wordpress.org/plugins/zopim-live-chat/)<br/>&bull; [Live Chat - Live Support](https://wordpress.org/plugins/onwebchat/)
 Adult | Section specifically for adult-related items | | 76.19% of all libraries |
