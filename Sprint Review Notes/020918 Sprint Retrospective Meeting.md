@@ -1,3 +1,4 @@
+## 02/09/18 Sprint Retro Spective Meeting
 **1.	What went well?**
 
 We created a functioning prototype and found some good plug-ins that we could use for the catalog. 
