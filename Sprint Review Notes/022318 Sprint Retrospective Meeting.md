@@ -1,11 +1,11 @@
-## 02/09/18 Sprint Retro Spective Meeting
+## 02/23/18 Sprint Retro Spective Meeting
 **1.	What went well?**
 
-Putting due dates on tasks and using trello more often. 
+Putting due dates on tasks and using trello more often.
 
-**2.	What didn't go well?** 
+**2.	What didn't go well?**
 
-Communication between the team and the staff of SCL still need to be improved. 
+Communication between the team and the staff of SCL still need to be improved.
 
 **3.	What have we learned (about working as a group)?**
 
