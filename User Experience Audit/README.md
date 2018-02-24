@@ -6,8 +6,8 @@ The Southern California Library documents and makes accessible histories of stru
 ### Users
 * Teachers (K - 12)
 * Students (primarily high school - grad school)
-* Scholars/researchers (academics and non-academics)
-* Community organizers
+* Scholars/Researchers (academics and non-academics)
+* Community Organizers
 * Donors
 
 ### Guidelines
