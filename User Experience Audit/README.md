@@ -21,4 +21,4 @@ The Southern California Library documents and makes accessible histories of stru
 ![alt text](http://andrewbirgiolas.com/images/Marriott---UX-Audit-p-1080x811.jpeg "Screenshot Mark Up Example")
 
 ### Pilot Audit Library Link
-[New York Public Library](https://www.nypl.org/)
+* [New York Public Library](https://www.nypl.org/)
