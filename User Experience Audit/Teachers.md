@@ -20,3 +20,5 @@ Black woman, 40s, professor for at least 15 years, tenured, teaches at local 4-y
     * High education level, high level of comfort with technology
     * Comfortable with library procedures
     * Uses the Library in spurts
+
+#### PowerPoint Link

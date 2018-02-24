@@ -20,3 +20,5 @@ USC student, late teens/early 20s. Mobility/time are issues in getting to the Li
     * High level of comfort with technology
     * Not familiar w/ library procedures
     * Not a frequent Library user but potential big user of a Library website with content and functionality that met their needs.
+
+#### PowerPoint Link

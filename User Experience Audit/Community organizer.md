@@ -11,3 +11,5 @@ Korean woman, mid-20s, queer. Works at multi-racial organizing center. Organizes
     * High level of comfort using technology
     * Less knowledge about library procedures
     * Not a frequent Library user
+
+#### PowerPoint Link
