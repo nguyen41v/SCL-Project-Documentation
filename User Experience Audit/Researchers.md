@@ -22,3 +22,4 @@ An independent author writing a book about histories of community resistance mov
     * Interested in any material that might be related to his search
 
 #### PowerPoint Link
+* https://docs.google.com/presentation/d/1pqGI1DX1nqJ-a9lBF2OUYK1n2Oa4tF_zB23MfRcoj-U/edit?usp=sharing
