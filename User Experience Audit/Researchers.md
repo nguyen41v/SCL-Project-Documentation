@@ -15,6 +15,7 @@ Black man, mid-40s, married, children. Making a film. Going to a lot of archives
 An independent author writing a book about histories of community resistance movements that happened in Los Angeles. Has written books before so is very familiar with the workings of libraries and archives. Uses multiple libraries and archives to gather information and is focused on finding specific documents and articles related to topics he is looking for.
 
 * Key Words
+    * Already very knowledgeable
     * Actively looking for information
     * Very familiar with workings of libraries and archives
     * Has specific topics in mind when searching
