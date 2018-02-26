@@ -1,7 +1,7 @@
 ## Researchers User Experience Audit
 
 #### User Story
-###### Independent Researcher
+###### Filmmaker
 Black man, mid-40s, married, children. Making a film. Going to a lot of archives. Film relates to Black Panthers, which reflects his personal history/relationship w/ his father. Used Library’s resources and space for project; and Library name for legitimacy. Will donate materials from his project to Library. A strong advocate of the Library. Participates in other Library projects. Part of local hip hop history. Brings his family in to Library. Has been able to meet people helping him on his project through the Library, as he ran into people in the physical space. Has been doing his own fundraising/outreach for his film. Knows a lot of people.
 
 * Key Words
@@ -22,4 +22,5 @@ An independent author writing a book about histories of community resistance mov
     * Interested in any material that might be related to his search
 
 #### PowerPoint Link
-* https://docs.google.com/presentation/d/1pqGI1DX1nqJ-a9lBF2OUYK1n2Oa4tF_zB23MfRcoj-U/edit?usp=sharing
+* [Filmmaker](https://docs.google.com/presentation/d/1pqGI1DX1nqJ-a9lBF2OUYK1n2Oa4tF_zB23MfRcoj-U/edit?usp=sharing)
+* [Author](https://docs.google.com/presentation/d/1YgqBcaiZ9uu5wtGRLKBFTE0g63Bdm8omfb2ziv63pzc/edit?usp=sharing)
