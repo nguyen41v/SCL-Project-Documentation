@@ -1,3 +1,5 @@
+##022118 Justin Meeting Notes
+
 * might want to categorize library 
 * might know by now that SCL is slow at responding to email 
 * the survey you had before is UI so developing that might be helpful
