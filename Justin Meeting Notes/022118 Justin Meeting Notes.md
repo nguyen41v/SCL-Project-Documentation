@@ -1,4 +1,4 @@
-##022118 Justin Meeting Notes
+## 022118 Justin Meeting Notes
 
 * might want to categorize library 
 * might know by now that SCL is slow at responding to email 
