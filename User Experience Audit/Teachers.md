@@ -22,4 +22,5 @@ Black woman, 40s, professor for at least 15 years, tenured, teaches at local 4-y
     * Uses the Library in spurts
 
 #### PowerPoint Link
-* https://docs.google.com/presentation/d/1SDjuUXFbn6R2P9ViH3cYttMcYKJx6xY6AoLtXesDwdo/edit?usp=sharing
+* [Teacher](https://docs.google.com/presentation/d/1SDjuUXFbn6R2P9ViH3cYttMcYKJx6xY6AoLtXesDwdo/edit?usp=sharing)
+* [Academic Faculty Member](https://docs.google.com/presentation/d/1KGzHO4SujXK7FPvSK91b6ViKanhr1qUxxD4dC394nRI/edit?usp=sharing)
