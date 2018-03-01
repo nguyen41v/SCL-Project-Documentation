@@ -21,6 +21,12 @@ An independent author writing a book about histories of community resistance mov
     * Has specific topics in mind when searching
     * Interested in any material that might be related to his search
 
+#### Scenarios
+* Filmmaker is creating a film about Black Panthers and their impact on the community during the movement. He wants to search articles or books that talk about how the community was impacted and any video materials that might have real life footage of some of the people during the movement. He wants to be able to either access the materials online or visit the library to see the materials in person. He would also like to see if there's any space rental services available for him to use and establish a connection with the library for more possible work in the future.
+
+* Author is writing a book about histories of community resistance movements. He is specifically looking for other books or articles that has information related to his topic. Because he does not live in the area of the library, he wants to access the information online or even request copies to be sent to him.
+
+
+
 #### PowerPoint Link
-* [Filmmaker](https://docs.google.com/presentation/d/1pqGI1DX1nqJ-a9lBF2OUYK1n2Oa4tF_zB23MfRcoj-U/edit?usp=sharing)
 * [Author](https://docs.google.com/presentation/d/1YgqBcaiZ9uu5wtGRLKBFTE0g63Bdm8omfb2ziv63pzc/edit?usp=sharing)

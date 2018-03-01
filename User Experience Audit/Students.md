@@ -21,7 +21,12 @@ USC student, late teens/early 20s. Mobility/time are issues in getting to the Li
     * Not familiar w/ library procedures
     * Not a frequent Library user but potential big user of a Library website with content and functionality that met their needs.
 
+###### Scenario
+* Undergrad student is writing a paper on black activists in Los Angeles. Because he doesn't live in New York, he wishes to access all the materials online or even request copies to be sent.
+
 #### PowerPoint Link
 Grad
+[NYPL - grad](https://docs.google.com/presentation/d/1tdX43hLrhQf-NXuiMEhdlwnIOfFWe8zgysp0I5Q1oIE/edit?usp=sharing)
 
+Undergrad
 [NYPL - undergrad](https://docs.google.com/presentation/d/1LOYj9bAoxoY1qZswQQnO2IAHO6K07Ui889l7o0hTD6g/edit?usp=sharing)
