@@ -1,0 +1,7 @@
+## 2/27/18 Vanessa's Reflection
+* Reflect on the agile/scrum process. What are it's started goals? Based on your project so far, is that process achieving those goals for your team? Why/Why not?
+    * For the current sprint, our goals changed a great deal because of an update from our community partner. We were more focused on making a prototype website at the start but our community partner wanted us to do research and journey mapping, although what they'll use that data for, if at all, is unclear.
+* Reflect on your communication with your community partner. Do you think you are on the same page? Why/why not?
+    * Justin said that we're finally on the same page so I suppose so, although that may change after another email. We haven't visited their site yet either.
+* Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+    * I don't like this question but a thought would be about the probability of this project getting dropped. It's not really a fear or a hope though, it's just there. We'll see how coding goes when we start I guess. Maybe I don't like this question because thinking about things you can't do right now can be considered a distraction.
