@@ -30,3 +30,5 @@ Grad
 
 Undergrad
 [NYPL - undergrad](https://docs.google.com/presentation/d/1LOYj9bAoxoY1qZswQQnO2IAHO6K07Ui889l7o0hTD6g/edit?usp=sharing)
+
+[NYPL - undergrad revamped)(https://docs.google.com/presentation/d/1f3zKC0Zw1-3_YbmINkQRormJpIlwagl2Z3wmJvJyYTA/edit?usp=sharing)
