@@ -21,6 +21,9 @@ Black woman, 40s, professor for at least 15 years, tenured, teaches at local 4-y
     * Comfortable with library procedures
     * Uses the Library in spurts
 
+#### Scenarios
+* The students are working on a project related to Black History month. First, she wants to know if it is possible to book a class visit to the library. If yes, then she wants the class to learn the basics of library and its many features with the library. 
+* Faculty is writing a book on local historical figure, Jackie Robinson. While she is visiting New York, she will be taking advantage of all the resources she could find in the New York Public Library system. Her main targets are primary sources and secondary sources in all forms of media. 
 #### PowerPoint Link
 * [Teacher](https://docs.google.com/presentation/d/1SDjuUXFbn6R2P9ViH3cYttMcYKJx6xY6AoLtXesDwdo/edit?usp=sharing)
 * [Academic Faculty Member](https://docs.google.com/presentation/d/1KGzHO4SujXK7FPvSK91b6ViKanhr1qUxxD4dC394nRI/edit?usp=sharing)
