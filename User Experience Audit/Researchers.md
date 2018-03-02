@@ -26,7 +26,5 @@ An independent author writing a book about histories of community resistance mov
 
 * Author is writing a book about histories of community resistance movements. He is specifically looking for other books or articles that has information related to his topic. Because he does not live in the area of the library, he wants to access the information online or even request copies to be sent to him.
 
-
-
 #### PowerPoint Link
 * [Author](https://docs.google.com/presentation/d/1YgqBcaiZ9uu5wtGRLKBFTE0g63Bdm8omfb2ziv63pzc/edit?usp=sharing)
