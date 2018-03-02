@@ -22,6 +22,8 @@ USC student, late teens/early 20s. Mobility/time are issues in getting to the Li
     * Not a frequent Library user but potential big user of a Library website with content and functionality that met their needs.
 
 ###### Scenario
+* Grad student is doing research on black/brown people, mostly focused on transportation or mobility issues. She is currently interested in browsing the archives and seeing the historical papers and the thoughts from those times. She intends to visit the library in the future to view the archives in person.
+
 * Undergrad student is writing a paper on black activists in Los Angeles. Because he doesn't live in New York, he wishes to access all the materials online or even request copies to be sent.
 
 #### PowerPoint Link
