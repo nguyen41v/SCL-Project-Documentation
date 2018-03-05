@@ -2,4 +2,4 @@
 
 * Everyone:
     * Accomplished: Working on NYPL undergrad journey map
-    * Will do: Apply scenarios to other journeymaps
+    * Will do: Add scenarios to other journeymaps
