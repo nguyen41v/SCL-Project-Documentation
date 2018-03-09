@@ -1,4 +1,4 @@
-## 2/05/18 Scrum Meeting Notes
+## //18 Scrum Meeting Notes
 
 * Drake
     * Accomplished: 
@@ -13,6 +13,10 @@
     * Will do: 
     * Blockers: 
 * Jon
+    * Accomplished: 
+    * Will do: 
+    * Blockers: 
+* Everyone
     * Accomplished: 
     * Will do: 
     * Blockers: 
