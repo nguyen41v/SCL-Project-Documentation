@@ -9,4 +9,4 @@
 * Betsy
 * Jon
 * Everyone
-    * Will do: Finish up on NYPL user experience audits
+    * Will do: Finish up on NYPL user experience audits; come up with a list of pros and cons based on own audits in preparation for summary
