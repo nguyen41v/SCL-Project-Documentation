@@ -10,4 +10,4 @@
     * Accomplished: Finished UX audit
 * Everyone
     * Accomplished: Making a short list of features/comments about NYPL
-    * Will do: Combine the short lists into a summary
+    * Will do: Combine the short lists into a summary and do respective UX audits for the Los Angeles Public Library
