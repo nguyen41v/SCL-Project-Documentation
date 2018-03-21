@@ -19,3 +19,7 @@ Korean woman, mid-20s, queer. Works at multi-racial organizing center. Organizes
 
 #### PowerPoint Link
 https://docs.google.com/presentation/d/1jGL9hP8xDiKiAmoPsTjo0Rqgd_ftNREe58FslG9ano0/edit?usp=sharing
+
+#### Summary
+-clear navigation bar, main pages on menu bar, location/map very effective, clear sidebar tabs
+
