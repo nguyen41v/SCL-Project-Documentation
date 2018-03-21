@@ -14,3 +14,4 @@ Graduated from 4-year college, active/progressive user of SCL website and involv
 * A donor would like to give back to the library that has helped him so many times during his research in the past.
 
 #### PowerPoint Link
+[Closely-Connected User](https://docs.google.com/presentation/d/126aziMQ8PYs_Wf5oEKyAoWGnl-uHTVQ_4cbfHVw28bk/edit?usp=sharing)
