@@ -2,6 +2,7 @@
 
 * Drake
     * Accomplished: Finished UX audits
+        *  Added Google Forms for booking a room on WordPress
 * Vanessa
     * Accomplished: Made a child theme on WordPress
         * Finished UX audits and posted them on GitHub
