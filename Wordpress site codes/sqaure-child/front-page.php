@@ -50,7 +50,7 @@ get_header();
 		}
 	} ?>
 	</div>
-	<div class="sq-banner-shadow"><img src="<?php echo get_template_directory_uri() ?>/images/banner-shadow.png"></div>
+	<div class="sq-banner-shadow"><img src="<?php echo get_template_directory_uri() ?>/images/banner-shadow.png" width = "900" height = "400"></div>
 </section>
 
 <section id="sq-featured-post-section" class="sq-section">
