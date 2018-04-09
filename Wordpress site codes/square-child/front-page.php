@@ -32,7 +32,7 @@ get_header();
 		if( $square_slider_image ){
 		?>
 		<div class="sq-slide sq-slide-count<?php echo $i; ?>">
-			<img src="<?php echo esc_url( $square_slider_image ); ?>">
+			<img src="<?php echo esc_url( $square_slider_image ); ?>" width = "900" height = "400">
 
 			<?php if( $square_slider_title || $square_slider_subtitle){ ?>
 				<div class="sq-slide-caption">
@@ -50,7 +50,7 @@ get_header();
 		}
 	} ?>
 	</div>
-	<div class="sq-banner-shadow"><img src="<?php echo get_template_directory_uri() ?>/images/banner-shadow.png" width = "900" height = "400"></div>
+	<div class="sq-banner-shadow"><img src="<?php echo get_template_directory_uri() ?>/images/banner-shadow.png"></div>
 </section>
 
 <section id="sq-featured-post-section" class="sq-section">
