@@ -14,7 +14,6 @@ get_header(); ?>
 
 <div class="sq-container">
 	<section id="primary" class="content-area">
-	    <?php echo do_shortcode('[searchandfilter fields="search,category,post_tag"]'); ?>
 		<main id="main" class="site-main" role="main">
 
 		<?php if ( have_posts() ) : ?>
@@ -48,8 +47,10 @@ get_header(); ?>
 		</main><!-- #main -->
 	</section><!-- #primary -->
 
-<?php get_sidebar(); ?>
-
+<?php if ( is_active_sidebar( 'custom-search' ) ) : ?>
+    <?php dynamic_sidebar( 'custom-search' ); ?>
+    <?php echo do_shortcode('[searchandfilter fields="search,category,post_tag,post_type" types=",checkbox,checkbox,checkbox" headings=",Subject,Type"]'); ?>
+<?php endif; ?>
 </div>
 
 <?php get_footer(); ?>
