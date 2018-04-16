@@ -1,4 +1,4 @@
-## //18 Scrum Meeting Notes
+## 04/16/18 Scrum Meeting Notes
 
 * Drake
     * Accomplished: Deleted old plugins
