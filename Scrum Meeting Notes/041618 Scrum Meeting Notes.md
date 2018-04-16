@@ -12,3 +12,5 @@
 * Jon
     * Accomplished: Website cleaning
     * Will do: Front page pictures
+* Everyone
+    * Will do: Add files to pdf
