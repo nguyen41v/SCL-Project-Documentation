@@ -48,8 +48,9 @@ get_header(); ?>
 	</section><!-- #primary -->
 
 <?php if ( is_active_sidebar( 'custom-search' ) ) : ?>
+    <div id="secondary" class="widget-area">
     <?php dynamic_sidebar( 'custom-search' ); ?>
-    <?php echo do_shortcode('[searchandfilter fields="search,category,post_tag,post_type" types=",checkbox,checkbox,checkbox" headings=",Subject,Type"]'); ?>
+    </div><!-- #secondary -->
 <?php endif; ?>
 </div>
 

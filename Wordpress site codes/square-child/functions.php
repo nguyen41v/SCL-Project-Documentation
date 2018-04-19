@@ -14,9 +14,9 @@ add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 function my_custom_sidebar() {
     register_sidebar(
         array (
-            'name' => __( 'Custom Search', 'Square-Child' ),
+            'name' => esc_html__( 'Custom Search', 'square-child' ),
             'id' => 'custom-search',
-            'description' => __( 'Custom Search Sidebar', 'Square-Child' ),
+            'description' => '',
             'before_widget' => '<aside id="%1$s" class="widget %2$s">',
             'after_widget'  => '</aside>',
             'before_title' => '<h4 class="widget-title">',

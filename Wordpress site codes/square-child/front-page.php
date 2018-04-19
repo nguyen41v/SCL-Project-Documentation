@@ -17,6 +17,7 @@ if ( 'page' == get_option( 'show_on_front' ) ) {
 get_header();
 ?>
 <section id="sq-home-slider-section">
+    <?php the_content(); ?>
 	<div id="sq-bx-slider">
 	<?php for ($i=1; $i < 4; $i++) {
 		if($i == 1){
