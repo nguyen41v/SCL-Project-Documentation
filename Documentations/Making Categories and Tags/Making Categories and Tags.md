@@ -1,0 +1,9 @@
+# Making Categories and Tags
+
+### Introduction
+This is a how-to guide that goes through the steps to make categories and tags on the WordPress site. Categories are mainly used for broad subjects that apply to multiple posts, while tags are more specific and apply to fewer posts. It is important to note that there are multiple ways of achieving the same result. To do the following steps, log onto an admin account for the WordPress website.
+
+### Making Categories
+On the side menu, hover over one of your post type denoted by the pin symbol. The *Posts* button is being hovered over, giving a sub-menu (CatTagSS01.png). Click *Categories* in the sub-menu (CatTagSS01.png). Type in the name of your new category under "Name" and a short version of the name for the url under "Slug" (CatTagSS02.png). If you are going to use the Search and Filter plugin for the site, it is probably best to leave the "Parent Category" as "None". You can make each category as a different form of posts on your website (ex. normal posts can be "Uncategorized" while posts from Memphis Docs can be "Archive", letting you filter between normal posts and Memphis Docs posts that contain archive content). You can add in a description for your category if you want to but it is not necessary. Hit "Add New Category" to make your new category.																
+### Making Tags
+On the side menu, hover over one of your post type denoted by the pin symbol. The *Posts* button is being hovered over, giving a sub-menu (CatTagSS01.png). Click *Tags* in the sub-menu (CatTagSS01.png). Type in the name of your new tag under "Name" and a short version of the name for the url under "Slug" (CatTagSS03.png). You can add in a description for your tag if you want to but it is not necessary. Hit "Add New Tag" to make your new tag.
