@@ -19,5 +19,3 @@ Working on the website more because we finished the UX audits.
 **5.	What have we yet to figure out (about team dynamics)?**
 
 Since our project does not involve a lot of coding and we are doing use audits, we have yet to figure out how we do as a team when it comes to coding. Probably won't experience that much coding though.
-
-
