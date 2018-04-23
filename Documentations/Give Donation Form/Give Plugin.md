@@ -1,0 +1,7 @@
+# Using the Give Donation Plugin
+
+### Introduction
+This is a how-to guide that goes through the steps to upload documents onto WordPress through the Search and Filter plugin. It is important to note that there are multiple ways of achieving the same result. To do the following steps, log onto an admin account for the WordPress website.
+
+### Using the plugin
+Go to the Give tab of your WordPress dashboard by clicking on *DOnations*(GiveSS01.png). You can edit and make your form with the settings provided (GiveSS02.png). Once you have made your first form, go to the *Settings* tab of your Give plugin (GiveSS02.png). Make sure to click *Save changes* after every change. The first page tells you what additional pages you need to make on WordPress for your plugin (GiveSS03.png). It will also give you the minimum content needed on each page. Going to the *Payment Gateways* tab will allow you to turn test donations on and off (GiveSS04.png). The *PayPal Standard* tab is where you can input information about which PayPal account to send the money to (GiveSS05.png). The *Offline Donations* tab is where you can edit the message to give to donors if they want to mail in donations instead (GiveSS06.png). 
