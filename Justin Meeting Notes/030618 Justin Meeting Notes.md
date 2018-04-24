@@ -1,4 +1,4 @@
-** 030618 Justin Meeting Notes
+## 030618 Justin Meeting Notes
 
 * Justin: “I want you to have the experience of doing code review. Either reviewing projects you have done in previous 
  classes or do a side project.”
