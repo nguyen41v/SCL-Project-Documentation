@@ -1,0 +1,17 @@
+The easiest way of installing a WordPress plugin is to use the plugin search. The only downside of this option is that a plugin must be in the WordPress plugin directory which is limited to only free plugins.
+
+First thing you need to do is go to your WordPress admin area and click on Plugins » Add New.
+
+Find the plugin by typing the plugin name or the functionality you are looking for. After that, you will see a bunch of listing.
+
+You can pick the plugin that is best for you and click the ‘Install Now’ button.
+
+WordPress will now download and install the plugin for you. After this, you will see the success message with a link to activate the plugin or return to plugin installer.
+
+A WordPress plugin can be installed on your site, but it will not work unless you activate it. So go ahead and click on the activate plugin link to activate the plugin on your WordPress site.
+
+That’s all, you have successfully installed your first WordPress plugin.
+
+The next step is to configure the plugin settings. 
+
+
