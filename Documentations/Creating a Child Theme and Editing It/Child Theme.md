@@ -1,4 +1,4 @@
-# Wordpress Theme Info
+# Making and Editing a Child Theme
 
 * sqaure-child contains files for a child theme of the parent them "Square". This allows for safe customization of the parent theme.
 
@@ -13,4 +13,4 @@
 * You can edit the CSS with the built in Custom CSS in WordPress when you click on *Customize* for a theme, but you can also edit the CSS through the style.css file in the child theme. It's best to have your CSS in the style.css sheet too (just copy and paste it), that way you can have it on file.
 * PHP and JavaScript codes and examples can be found online through Google searches.
 
-* This information is also found under Documentations/Creating a Child Theme and Editing It/Child Theme
+* This information is also found under /Wordpress site codes/README
