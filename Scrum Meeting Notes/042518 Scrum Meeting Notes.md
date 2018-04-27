@@ -13,7 +13,7 @@
     * Will do: Make documentation for making pages
     * Blockers: 
 * Jon
-    * Accomplished: Documentation for 
+    * Accomplished: Documentation for FAQ creation, How to add Plugins, and Changing social media links.
     * Will do: Google Analytics plugin documentation
     * Blockers: 
 * Everyone
