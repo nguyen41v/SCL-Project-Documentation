@@ -12,3 +12,4 @@ You can add other filters to the plugin on the page by adding them into the shor
 
 More options and examples can be seen on http://docs.designsandcode.com/search-filter/
 You can see what kinds of categories and tags your site has by going to the Search and Filter tab on your WordPress dashboard (SearchFilterSS01.png, SearchFilterSS02.png)
+[searchandfilter fields="search, post_tag" post-types="mdocs-posts" types=",checkbox" headings=",Tags]
